@@ -1047,6 +1047,12 @@ a:hover {
   background-color: #4E73F8;
 }
 
+.disabled-btn {
+    pointer-events: none;
+    background-color: rgb(153, 153, 153) !important;
+    color: white !important;
+}
+
 .portfolio-details .portfolio-details-slider img {
   width: 100%;
 }
